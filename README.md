@@ -1,6 +1,6 @@
 # Thomas Legros
 
-![Profile Picture](https://via.placeholder.com/150)
+![Profile Picture](https://avatars.githubusercontent.com/u/187043720?s=400&u=649a1db93f9585c8c75b6451989e910ddb44b2a6&v=4)
 
 ### Data Analysis & Network Engineering Student
 
